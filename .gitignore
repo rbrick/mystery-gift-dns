@@ -1,0 +1,7 @@
+*.pem
+*.crt
+*.srl
+*.key
+*.csr
+*.exe
+.idea/
